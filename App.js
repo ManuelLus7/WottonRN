@@ -10,7 +10,7 @@ const App = () => {
       <Text style={styles.info}>Comisión: 55490</Text>
       <Text style={styles.info}>CoderHouse</Text>
       <Text style={styles.description}>
-        Hola Coder!, Bienvenidos a mí aplicación de cotización de seguros.
+        Hola Coder!, Bienvenidos a mí aplicación.
              </Text>
     </View>
   );
